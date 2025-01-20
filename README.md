@@ -1,7 +1,7 @@
-### <div align="center">I'm Chayan, a full-stack developer 👨‍💻 working remotely since 2024🚀</div>  
+### <div align="center">I'm Chayan, a JavaScript developer 👨‍💻 working remotely since 2024🚀</div>  
   
 
-- 🌱 I’m currently working on 
+- 🌱 I’m currently working on MERN Stack, Next.js
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
